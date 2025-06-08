@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Paul Picon
+# 👋 Hi, I'm Paul Picon, Full Stack Developer in Progress
 
 **Software Developer** | **Open Source Advocate** | **Speaker**
 
@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-Hola, soy Paul Picon, desarrollador de software Full Stack con más de **2 años de experiencia** creando herramientas, soluciones y apps que hacen la vida más fácil a desarrolladores y empresas. Me apasiona el **open source**, el aprendizaje continuo y el impacto positivo en la comunidad tech.
+¡Hola! Soy un desarrollador en formación enfocado en convertirme en **Full Stack Pro**, combinando lo mejor del frontend, backend, bases de datos y DevOps. Actualmente me encuentro cursando un programa intensivo personalizado con enfoque 100% práctico, basado en proyectos reales, buenas prácticas y tecnologías modernas.
 
 🎯 Mi enfoque está en construir soluciones **escalables, útiles y reales**, compartiendo el conocimiento en cada paso a través de redes sociales, artículos técnicos y videos.
 
@@ -19,8 +19,6 @@ Hola, soy Paul Picon, desarrollador de software Full Stack con más de **2 años
 - 🌐 Automatización y soluciones en la nube.
 - 🧪 Mentoría y generación de contenido educativo.
 - 👥 Apoyo activo a comunidades de desarrollo.
-
----
 
 ---
 
@@ -55,11 +53,40 @@ El **open source** es una forma de compartir conocimiento, resolver problemas re
 
 ### 👨🏽‍💻 Ask Me About
 
-`Angular` • `JavaScript` • `Firebase` • `SQL` • `FIGMA` • `Node.js` • `TypeScript`  
+### 🧩 Frontend
+- Angular 20
+- TypeScript
+- Angular Material y TailwindCSS
+- HTML5, CSS3, Flexbox, Grid, SASS
+
+### 🛠️ Backend
+- NestJS
+- .NET Core 9 (Repository Pattern, EF Core, LINQ)
+- Node.js + Express
+- Autenticación JWT / OAuth2
+
+### 🗄️ Base de datos
+- MySQL (con Sequelize)
+- SQL Server (con Entity Framework Core)
+- Redis (caching)
+
+### ⚙️ DevOps y herramientas
+- Docker & Docker Compose
+- CI/CD (automatización)
+- Scalar para documentación de APIs
+- Postman, Insomnia
+- Figma (UI/UX)
 
 Si tienes dudas sobre cualquiera de estos temas, ¡no dudes en escribirme! Si no sé la solución, te ayudo a encontrarla 😉
 
 ---
+## 🧠 Filosofía de aprendizaje
+
+- ✅ Entiendo antes que memorizar
+- ✅ Comento mi código para aprender mejor
+- ✅ Uso mini proyectos para aplicar lo aprendido
+- ✅ Organizo mis snippets útiles y buenas prácticas
+- ✅ Pienso como desarrollador desde el día 1
 
 ### 📺 Follow Me
 
@@ -76,7 +103,22 @@ Si mis proyectos te han sido útiles, puedes apoyarme en:
 
 ---
 
+## 📚 Proyectos actuales
+
+- 📦 Sistema de gestión de usuarios
+- 🛒 Plataforma eCommerce full stack (Angular + NestJS + Docker)
+- 🧪 Implementación de testing, CI/CD y arquitectura limpia
+
+## 🎯 Meta
+
+Mi meta es trabajar como desarrollador full stack profesional, aportando valor en equipos reales o como freelancer. ¡Estoy comprometido con seguir aprendiendo y creando!
+
+---
+
 ### 📊 Skills
+
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![.NET Core](https://img.shields.io/badge/-_.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 <p dir="auto"><a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/1814b548a534e5e491d0cf4c7450bb4cae639bf3f8c989d0406180e01afb29f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d323232373245266c6162656c436f6c6f723d663066306630" alt="" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=22272E&amp;labelColor=f0f0f0" style="max-width: 100%;"></a>
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/6f5441bd9ecdca679430aee7b78a17e63f90c662ff204daa32068167f267781b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3565643466343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d323232373245266c6162656c436f6c6f723d663066306630" alt="" data-canonical-src="https://img.shields.io/badge/React-5ed4f4?style=for-the-badge&amp;logo=react&amp;logoColor=22272E&amp;labelColor=f0f0f0" style="max-width: 100%;"></a>
