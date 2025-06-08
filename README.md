@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-¡Hola! Soy un desarrollador en formación enfocado en convertirme en **Full Stack Pro**, combinando lo mejor del frontend, backend, bases de datos y DevOps. Actualmente me encuentro cursando un programa intensivo personalizado con enfoque 100% práctico, basado en proyectos reales, buenas prácticas y tecnologías modernas.
+¡Hola! Soy un desarrollador en formación enfocado en convertirme en **Full Stack Developer **, combinando lo mejor del frontend, backend, bases de datos y DevOps. Actualmente me encuentro cursando un programa intensivo personalizado con enfoque 100% práctico, basado en proyectos reales, buenas prácticas y tecnologías modernas.
 
 🎯 Mi enfoque está en construir soluciones **escalables, útiles y reales**, compartiendo el conocimiento en cada paso a través de redes sociales, artículos técnicos y videos.
 
