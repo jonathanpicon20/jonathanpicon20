@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paul Picon
 
-**Software Developer** | **Open Source Advocate** | **Indie Maker** | **Speaker**
+**Software Developer** | **Open Source Advocate** | **Speaker**
 
 ---
 
