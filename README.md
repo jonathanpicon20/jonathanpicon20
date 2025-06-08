@@ -93,7 +93,7 @@ Si mis proyectos te han sido útiles, puedes apoyarme en:
 <a href="https://aws.amazon.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/a19742ecd917ca1f11c5fa4d71f0f89cf669285a4f501c9f4913a16a36ca17e8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3032324436363f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d323232373245266c6162656c436f6c6f723d663066306630" alt="" data-canonical-src="https://img.shields.io/badge/docker-022D66?style=for-the-badge&amp;logo=docker&amp;logoColor=22272E&amp;labelColor=f0f0f0" style="max-width: 100%;"></a></p>
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ### 📊 Soft Skills
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/39f7fa18c9cbbfaacd729043daadee5a31a2db571a19b1154e67a6665416c16b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465636973696f6e2532306d616b696e672d3244333333423f7374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/39f7fa18c9cbbfaacd729043daadee5a31a2db571a19b1154e67a6665416c16b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4465636973696f6e2532306d616b696e672d3244333333423f7374796c653d666f722d7468652d6261646765" alt="" data-canonical-src="https://img.shields.io/badge/Decision%20making-2D333B?style=for-the-badge" style="max-width: 100%;"></a>
