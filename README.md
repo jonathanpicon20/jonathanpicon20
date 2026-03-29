@@ -62,6 +62,7 @@ El **open source** sigue siendo parte fundamental de mi crecimiento. Ahora lo ap
 - API Testing (Postman, Insomnia)
 - Testing funcional y regresión
 - Estrategias de testing
+- JMeter
 
 ### 💻 Development Knowledge
 - Angular
@@ -81,6 +82,7 @@ El **open source** sigue siendo parte fundamental de mi crecimiento. Ahora lo ap
 - Git / GitHub
 - Postman, Insomnia
 - Figma
+
 
 Si tienes dudas sobre testing o desarrollo, ¡no dudes en escribirme! 😉
 
